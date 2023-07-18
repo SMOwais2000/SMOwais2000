@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Machine Learning*
 
-- 👨‍💻 All of my projects are available at [https://github.com/SMOwais2000]
+- 👨‍💻 All of my projects are available at [https://github.com/SMOwais2000](https://github.com/SMOwais2000)
 
 - 💬 Ask me about *App Development, Web Development, Data Science*
 
