@@ -14,7 +14,7 @@
 
 - 📫 How to reach me *smowais2000@gmail.com*
 
-- 📄 Know about my experiences ([(https://sm0wais.netlify.app/)])
+- 📄 Know about my experiences (https://sm0wais.netlify.app)
 
 
 <h3 align="left">Connect with me:</h3>
